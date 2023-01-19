@@ -1,3 +1,3 @@
 #devops preparation
 
-new
+new course
